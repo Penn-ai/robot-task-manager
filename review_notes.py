@@ -139,7 +139,7 @@ completed_tasks = 0
 # Count total tasks
 # 统计总任务数量
 total_tasks = len(target_points)
-
+-
 # Execute tasks one by one
 # 依次执行任务
 for point in target_points:
