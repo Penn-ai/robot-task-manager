@@ -1,0 +1,17 @@
+Robot Task Report
+==============================
+Robot name: TurtleBot3
+Total tasks: 4
+Completed tasks: 3
+Unfinished tasks: 1
+Final battery: 10%
+Task completion rate: 75.0%
+
+Task Status Details
+------------------------------
+Point B | Priority: 4 | Battery cost: 15% | Status: completed
+Point D | Priority: 3 | Battery cost: 25% | Status: completed
+Point A | Priority: 2 | Battery cost: 10% | Status: completed
+Point C | Priority: 1 | Battery cost: 20% | Status: unfinished
+
+End of Report
